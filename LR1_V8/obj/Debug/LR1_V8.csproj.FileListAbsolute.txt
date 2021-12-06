@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\ВВС\LR1_V8\LR1_V8\bin\Debug\LR1_V8.exe.config
+C:\Users\Asus\Desktop\ВВС\LR1_V8\LR1_V8\bin\Debug\LR1_V8.exe
+C:\Users\Asus\Desktop\ВВС\LR1_V8\LR1_V8\bin\Debug\LR1_V8.pdb
+C:\Users\Asus\Desktop\ВВС\LR1_V8\LR1_V8\obj\Debug\LR1_V8.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\ВВС\LR1_V8\LR1_V8\obj\Debug\LR1_V8.Form1.resources
+C:\Users\Asus\Desktop\ВВС\LR1_V8\LR1_V8\obj\Debug\LR1_V8.Properties.Resources.resources
+C:\Users\Asus\Desktop\ВВС\LR1_V8\LR1_V8\obj\Debug\LR1_V8.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\ВВС\LR1_V8\LR1_V8\obj\Debug\LR1_V8.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ВВС\LR1_V8\LR1_V8\obj\Debug\LR1_V8.exe
+C:\Users\Asus\Desktop\ВВС\LR1_V8\LR1_V8\obj\Debug\LR1_V8.pdb
